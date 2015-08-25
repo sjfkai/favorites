@@ -1,7 +1,9 @@
 # favorites
 网址收藏
+
 ##Javascript
 * [Javascript设计模式](http://www.alloyteam.com/2012/10/common-javascript-design-patterns/)
+
 ###mysql
 * [Using Node.js with MySQL](http://nodejs.blog.br/2015/01/using-nodejs-with-mysql)
 * [koa sample with mysql](https://github.com/chrisveness/koa-sample-web-app-api-mysql)
